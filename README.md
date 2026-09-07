@@ -1,4 +1,8 @@
-### Hi there, I'm [Flavius]! 👋
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,docker,git,linux" alt="My Skills" />
+</p>
+
+### Hi, I'm Flavius! 👋
 
 3rd-year Computer Science student at the **University of Bucharest**. Passionate about Machine Learning, algorithms and software engineering.
 
@@ -8,16 +12,27 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Skills 💪
 
+**Programming Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,c,php,haskell" />
+  </a>
+</p>
+
+**Web & Database Technologies**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,symfony,postgres,redis" />
+  </a>
+</p>
+
+**Tools, Platforms & OS**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,bash" />
+  </a>
 </p>
 
 ---
