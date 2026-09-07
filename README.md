@@ -1,11 +1,7 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40" alt="cpp" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" alt="react" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="40" alt="docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40" alt="linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,docker,linux,git&theme=dark" width="65" height="65" alt="skills" />
 </p>
+
 ### Hi, I'm Flavius! 👋
 
 3rd-year Computer Science student at the **University of Bucharest**. Passionate about Machine Learning, algorithms and software engineering.
