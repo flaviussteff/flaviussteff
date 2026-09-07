@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,docker,linux,git&theme=dark" width="65" height="65" alt="skills" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,react,docker,linux,git" />
+  </a>
 </p>
 
 ### Hi, I'm Flavius! 👋
