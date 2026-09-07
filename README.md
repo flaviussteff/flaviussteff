@@ -1,6 +1,10 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Backend+%26+Systems+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,react,docker,linux,git" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,java,c,cs,php,haskell,assembly,bash,js,react,symfony,postgres,docker,linux,git" alt="Top Skills" />
   </a>
 </p>
 
