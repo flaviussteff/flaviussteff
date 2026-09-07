@@ -49,5 +49,7 @@
 
 ### 🚀 Featured Projects
 
-* **[AI Game Simulation Platform](https://github.com/hmrss-proiectmds/proiectmds)** — Real-time matchmaking and state management using data structures (hash maps, priority queues) via WebSockets (Python, FastAPI, PostgreSQL).
-* **[Signal Object Detection Model](https://github.com/flaviussteff/Signal-Object-Detection)** — Custom CNN Machine Learning Model built from scratch in Python, securing **3rd place out of 146 participants** (81.3% accuracy) using PyTorch.
+* **[AI Game Simulation Platform](https://github.com/hmrss-proiectmds/proiectmds)** — Software Development Methods project for the University of Bucharest. Engineered robust backend logic and automated workflows using Python, focusing on clean architecture, testing practices, and collaborative development methodologies.
+* **[Signal Object Detection Model](https://github.com/flaviussteff/Signal-Object-Detection)** — Machine Learning classification model developed from scratch in Python using PyTorch. Custom Convolutional Neural Network designed to classify complex radio signals, leveraging data augmentation and advanced validation techniques for high performance.
+* **[AstreleTwitter](https://github.com/pstga/AstreleTwitter.com)** - Web Application Development project built for the University of Bucharest. Developed an Instagram-inspired micro social media platform featuring user authentication, personalized feeds, automated AI hate-speech moderation, and astrological API integrations using C# and .NET.
+* **[XMLParser](https://github.com/flaviussteff/XMLParser)** - Command-line file processing tool built with Shell scripting (Bash). Utilizes xmlstarlet to efficiently read, edit, validate, and manage nested XML structures through an interactive terminal interface.
