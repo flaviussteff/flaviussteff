@@ -49,6 +49,7 @@
 
 ### 🚀 Featured Projects
 
+* **[SPP-Ro — Constitutional Pre-training for Romanian LLMs from Token Zero](https://github.com/flaviussteff/spp-ro)** - SPP-Ro is a foundation AI research project investigating "Model Raising from Token Zero" for Romanian generative LLMs. Rather than relying on fragile post-hoc safety filters, it internalizes constitutional deliberative reasoning directly into causal transformer representations through Synthetic Pre-training Paths (SPP) and asymmetric attention blocking. 
 * **[AI Game Simulation Platform](https://github.com/hmrss-proiectmds/proiectmds)** — Software Development Methods project for the University of Bucharest. Engineered robust backend logic and automated workflows using Python, focusing on clean architecture, testing practices, and collaborative development methodologies.
 * **[Signal Object Detection Model](https://github.com/flaviussteff/Signal-Object-Detection)** — Machine Learning classification model developed from scratch in Python using PyTorch. Custom Convolutional Neural Network designed to classify complex radio signals, leveraging data augmentation and advanced validation techniques for high performance.
 * **[AstreleTwitter](https://github.com/pstga/AstreleTwitter.com)** - Web Application Development project built for the University of Bucharest. Developed an Instagram-inspired micro social media platform featuring user authentication, personalized feeds, automated AI hate-speech moderation, and astrological API integrations using C# and .NET.
